@@ -1,0 +1,16 @@
+body {
+  background-image: url("../images/ising.gif");
+  background-color: rgb(182, 244, 248);
+  background-blend-mode: lighten;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.triality {
+  width: 150px;
+  align-self: center;
+}
+
+.title {
+  text-align: center;
+}

@@ -1,0 +1,65 @@
+
+
+body {
+  background-image: url("../images/Aperiodic_Tiling_14.png");
+  background-color: rgb(85, 197, 147);
+  background-blend-mode: lighten;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+p {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.teaching,.research,.publications,.art {
+  text-align: center;
+}
+
+.self {
+  vertical-align: top;
+}
+.name {
+  display: inline-block;
+}
+.myphoto {
+  height: auto; 
+  width: auto; 
+  max-width: 300px; 
+  max-height: 300px;
+  float: right;
+}
+
+.contact {
+  vertical-align: top;
+}
+.contact1 {
+  display: inline-block;
+}
+.contact2 {
+  display: inline-block;
+  vertical-align: top;
+}
+
+
+.Hey:hover {
+  opacity: 0.7;
+  box-shadow: 5px 5px 5px rgba(0,0,0, 0.25);
+}
+
+.Hey:active {
+  opacity: .3;
+  box-shadow: 2px 2px 1px rgba(0,0,0, 0.7);
+}
+
+.introduction {
+  font-family: Kur;
+  font-size: 16px;
+  font-weight: italic;
+  width: 700px;
+  margin-top: 10px;
+
+  text-align: left;
+  line-height: 20px;
+}
